@@ -16,6 +16,22 @@ Homepage: http://my-darling.is-a-linux-user.org
 Description: Simple Screenshot tool based on qt
  Take screenshots of a specific area or from the whole screen. Comment, draw or print the result
 
+Package: filemanager-actions
+Architecture: amd64
+Version: 3.4-1
+Priority: extra
+Section: checkinstall
+Maintainer: root@bionic
+Installed-Size: 22032
+Provides: filemanager-actions
+Filename: ./filemanager-actions/filemanager-actions_3.4-1_amd64.deb
+Size: 3324980
+MD5sum: 31e5f99aad205381708ac439662e12da
+SHA1: dd1739afac1df98c62bf40cfc49776cf21a7c8b0
+SHA256: 6c69ea4077f927a436862dd81a53bf3a78b5f2930d9f1545549aefbd0e65cf60
+SHA512: 3681169a62549931901adbf2273ba2f89e71f155909c079bd3b6703c0511b43ab381f2cd01429df7b75d65eb1c48a25249676cc3ba080303e4b21e10c1d4253c
+Description: filemanager-actions
+
 Package: libmp3splt0-flac
 Architecture: amd64
 Version: 0.9.2.wheezy
