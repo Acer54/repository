@@ -299,6 +299,25 @@ Description: Adds a "Print" entry in the contextmenue of most filetypes in the f
  .
  Batchprocessing is supported. (Select multiple files, right-click on one of it, and select print)
 
+Package: onlinesearch
+Architecture: all
+Version: 0.1.0
+Priority: optional
+Source: https://github.com/Acer54/repository
+Maintainer: Matthias Laumer <matthias.laumer@web.de>
+Pre-Depends: libgtk2-perl
+Depends: python-qt4, python-wand, imagemagick
+Filename: ./onlinesearch/onlinesearch.deb
+Size: 4065062
+MD5sum: 4c7f23e24cd10fe916e794012aa5ff89
+SHA1: 6f7927d399ede10fbd0363c954f877a3e321ce41
+SHA256: b5dd61f924b8775572aaac3e27389838ebb184b931c72e141989320d86bc659c
+SHA512: d0540c1f91a23cd8b56b66c501457756efc08185e0ced03de13ea088f26f8264bc91caca3fbed848b7eeef37fff6b65c84c483ee9248f52c74f0cef9e3c671c9
+Homepage: https://my-darling-is-a-linux-user.org
+Description: Onlinesearch is a little helper for searching with search-engines
+ With onlinesearch you can enter a searchphrase like "cool video @youtube". If youtube is configured as one of our (free configurable) 
+ searchengine, then your standard-brower will be opend and youtube will be called, searching for "cool video".
+
 Package: libpng12-0
 Architecture: amd64
 Version: 1.2.54-1ubuntu1
