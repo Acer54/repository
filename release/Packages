@@ -16,6 +16,23 @@ Homepage: http://my-darling.is-a-linux-user.org
 Description: Simple Screenshot tool based on qt
  Take screenshots of a specific area or from the whole screen. Comment, draw or print the result
 
+Package: easystroke-patched
+Architecture: armhf
+Version: 0.6.0
+Priority: optional
+Source: https://github.com/thjaeger/easystroke/wiki/BuildInstructions#releases
+Maintainer: Matthias Laumer <matthias.laumer@web.de>
+Depends: g++, libboost-serialization-dev, libgtkmm-3.0-dev, libxtst-dev, libdbus-glib-1-dev, intltool, xserver-xorg-dev
+Filename: ./easystroke-patched/easystroke-patched_0.6.0_armhf.deb
+Size: 464224
+MD5sum: dbbfea407621f7fa8ec43c95de4d5b71
+SHA1: 33e005c836b94cc2caf6b5ea5d788dad89b27673
+SHA256: c5ff0d0dbb58dae7370b9f39f0b56ba4b8b244ddb5b914958a15255f2b9f8b60
+SHA512: 3a373bc091eb37c255ea4909ea2fb17f44cb3717fb5bb1cca2d7e27b5a1119d5708a2fe9a24e3e0d1687c97489c49115595a6c49d581eb741029c4299ec0247f
+Homepage: https://github.com/thjaeger/easystroke
+Description: easystroke for RaspberryPi
+ Latest release of easy-stroke (0.6.0) with multiple patches. A full list of patches can be found here: https://github.com/thjaeger/easystroke pull/10#issuecomment-444132355
+
 Package: filemanager-actions
 Architecture: amd64
 Version: 3.4-1
