@@ -13,5 +13,5 @@ installation guide, or simply download and install any Deb-File included in the 
     wget "https://raw.githubusercontent.com/Acer54/repository/master/release/acer54_repository.list" && sudo mv acer54_repository.list /etc/apt/sources.list.d/
 ### 2. Update your sources:
     sudo apt update
-### 3. Install webradio-py:
+### 3. Install a package:
     sudo apt install <the package you want>
