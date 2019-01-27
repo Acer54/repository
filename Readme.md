@@ -15,3 +15,4 @@ installation guide, or simply download and install any Deb-File included in the 
     sudo apt update
 ### 3. Install a package:
     sudo apt install <the package you want>
+    
