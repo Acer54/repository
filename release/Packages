@@ -381,6 +381,25 @@ Homepage: http://my-darling.is-a-linux-user.org
 Description: Support for Brother-PES and Jef-Files (Embroidery-Machine-Files)
  This packages adds support for thumbnailing and pre-viewing Embroidery-Files
 
+Package: playtoenigma-py
+Architecture: all
+Version: 0.0.1
+Priority: optional
+Source: https://github.com/Acer54/
+Maintainer: Matthias Laumer <matthias.laumer@web.de>
+Pre-Depends: libgtk2-perl
+Depends: python, python-httplib2, po-debconf, debconf
+Conflicts: youtube-dl
+Filename: ./playtoenigma/playtoenigma-py.deb
+Size: 19134
+MD5sum: b35e5f451c4904489ffef609d3d87d52
+SHA1: 2ac4550010ee3314af0173edb191e30486630452
+SHA256: 542aa98b359e482fe1220e011c140889747b7da79f4f7b146dda7114c6eb8180
+SHA512: 24a66d18aa797445580a442504d4aa9791a6ce660632a4d18b3c0a244e3b7f7b37ddc3e6671e2c0d54e7fa437be26bb569353190095e597a216906cdc27db3fe
+Homepage: https://my-darling-is-a-linux-user.org
+Description: Remote-Control for Enigma2-Linux-Sat-Receivers
+ playtoenigma-py is a Python script, which can take a URL of any Video of a wide range of common video-plattforms and transfer it in a streaming-link for your Linux-Sat-Receiver (Enigma2). As soon as you enter a valid URL or just "drop" a link on it, this link will be transfered to your media-player of your receiver and immediatelly start playing at your TV.
+
 Package: ttf2woff
 Architecture: amd64
 Version: 0.14
