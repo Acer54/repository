@@ -25,11 +25,11 @@ Source: https://github.com/Acer54/
 Maintainer: Matthias Laumer <matthias.laumer@web.de>
 Depends: python, python-qt4
 Filename: ./advanced-snipping-tool/advanced-snipping-tool_0.1.3_all.deb
-Size: 292518
-MD5sum: a3a2ce0c063c41aea018454db1865cdc
-SHA1: 1ddb19446ab745060562873c6863dd9e60b6efc0
-SHA256: b440183fdcdb43a1e822182a169396565abf4abad4a1bddd405481cb720b30b9
-SHA512: faa17bf101013f241bdc0715fac48ca1811a4ea21699ab70f69f4c4583d66eb5357a4a70e9a7d60183a6f7b506a95f0eeda4d9a1b22ddcf87c54168c5cd0b15b
+Size: 292498
+MD5sum: 2f60396b4f7375567ef3a211c1398191
+SHA1: 5d030c6c8cda932865ebdc1a8de5646325040f1f
+SHA256: c442ea99b400ac6f81c69ea6c83bbabb470550b85efa0eed6da8a0149fe37711
+SHA512: d1e367863c885eef6ab59c63dfee3b18a2595b44c554e44158990cae2b81749dda2b1e4b0b95f0a30b4e6b6b34691dba6e55dc7d718dba1681e87d163135481f
 Homepage: https://my-darling-is-a-linux-user.org
 Description: Simple Screenshot tool based on qt
  Take screenshots of a specific area or from the whole screen. Comment, draw or print the result
