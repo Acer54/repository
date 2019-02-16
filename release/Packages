@@ -410,10 +410,10 @@ Depends: python, python-httplib2, po-debconf, debconf
 Conflicts: youtube-dl
 Filename: ./playtoenigma/playtoenigma-py.deb
 Size: 19198
-MD5sum: 40bc5f2bc4038c48ad3621684a8c415e
-SHA1: a6061e935e48539b9531d25b06f34116a6037ce0
-SHA256: d8fe229dc1b478d720231e77d120f34d15da7f425d8309bef779cf70f85ce1b6
-SHA512: ba0ffeb48ba4b2cb083120c62d72b06bd0eacec7b41eb428021e3aa01a33401231d3bcdfd233d12d33b1d0ac9a781ec640fc77e09d1f7c5efd8bf7236d4b0ca7
+MD5sum: b5fdc9ad27f3b0e1373a1e8e26eafc24
+SHA1: 3282da3236c26e6622d83fb24cf1ff0354483e9a
+SHA256: a81982f82750260885e6e49a3531007eb7d6b7fd624871afae4dbbae211e29ec
+SHA512: a61ceb292438a913c943b812eb0b5d5294d2c00dd85505fb01575c2c681c625be4b7578ef1236308b48e17ac1c87f4878bb078378199b118b5cbd3716ed03e13
 Homepage: https://my-darling-is-a-linux-user.org
 Description: Remote-Control for Enigma2-Linux-Sat-Receivers
  playtoenigma-py is a Python script, which can take a URL of any Video of a wide range of common video-plattforms and transfer it in a streaming-link for your Linux-Sat-Receiver (Enigma2). As soon as you enter a valid URL or just "drop" a link on it, this link will be transfered to your media-player of your receiver and immediatelly start playing at your TV.
