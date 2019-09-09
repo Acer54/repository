@@ -541,3 +541,37 @@ Description: Webradio Frontend for MPD
  *    Onscreen settings
  *    Screensaver-Mode
 
+Package: webradio-py
+Architecture: armhf
+Version: 0.3.8
+Priority: optional
+Source: https://github.com/Acer54/Webradio_v3
+Maintainer: Matthias Laumer <matthias.laumer@web.de>
+Pre-Depends: libgtk2-perl, python-pip, alsa-utils
+Depends: python-six (>=1.6.1), python-qt4, python-mpd, python-mpdclient, python-lxml, python-httplib2, python-uritemplate, mpd, mpc, po-debconf, debconf
+Recommends: python-rpi.gpio
+Conflicts: youtube-dl
+Filename: ./webradio-py/webradio-py_0.3.8_armhf.deb
+Size: 19665366
+MD5sum: a1d1a804701ef4d97d745b60df3f9622
+SHA1: 059c37d4f3776df04438396ab979b028b624de7b
+SHA256: 4d22375806531f33441fcd2b753e9af78252a0592178462018a8ebc97461d2c4
+SHA512: 4f19a4777ae905f190c25fc748c89e3fc9619c55144c5c7cb96f5bd740a8846d35cc9d28b923f0befb2faf68903500643d4cda306508a265118db4d52fb51fea
+Homepage: https://my-darling-is-a-linux-user.org
+Description: Webradio Frontend for MPD
+ Webradio.py is a Python script which is designed to be a full-screen or windowed Frontend for MPD (Music-Player-Daemon). It allows to manage webradio-stations and is capable to utilize the GPIO's when running on a Raspberry-Pi.
+ .
+ *    Search and manage webradio-stations with a GUI
+ *    Listen to your local MP3-Music-Collection
+ *    Search your MP3-Collection
+ *    Automated Album-Cover download
+ *    Use of embedded Album-Covers from your MP3's
+ *    support for multiple File-Formats like .mp3, .ogg, .oga, and .flac
+ *    Stream Music from Youtube
+ *    Check the Weather-Forecast for you location
+ *    Multiple and self-designable Themes
+ *    Shutdown-Timer / Sleep-Timer
+ *    GPIO integration (use Buttons for changing webradio-stations, shutdown, mount-/umount USB-Sticks aso.)
+ *    Onscreen settings
+ *    Screensaver-Mode
+
