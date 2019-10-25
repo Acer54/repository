@@ -586,11 +586,11 @@ Depends: python-six (>=1.6.1), python-qt4, python-mpd, python-mpdclient, python-
 Recommends: python-rpi.gpio
 Conflicts: youtube-dl
 Filename: ./webradio-py/webradio-py_0.3.9_armhf.deb
-Size: 27079312
-MD5sum: e5c3a2fbfc63fd20fc4be71cbc7f6272
-SHA1: 2f3abe5de7ba2fd8b065f330c4aa6881e3f9bc26
-SHA256: 5d17be7a28c1e80e1e51b2167148a43203e814b8c52caeadfbcfaf70b203fbda
-SHA512: a1a45644a237a47738efe4894c87224b2f4cdf39f1473419fdcede4bbc6c4f0afc36ebec6e4c3c6c9110a8179f0e0a637cb50029c74c8b8321b50c04e3b59aed
+Size: 27079770
+MD5sum: 144fcb0b797d95f2614beefc890d461e
+SHA1: c7e65dfbf09ea2ec16ada23c718035b15280bd52
+SHA256: 89bb974f9d09b8f4f9fd24cd60270976ff024df8937c57256114a9ed4e22b9db
+SHA512: bcc808fb3ab6d4521d1c19eb69c21fd1108eae01fd4b9a889475cc65e3a66ab363dc9612d16ed43a1cc000db87497375f5a3d72b31399b3bb516ab903cb20923
 Homepage: https://my-darling-is-a-linux-user.org
 Description: Webradio Frontend for MPD
  Webradio.py is a Python script which is designed to be a full-screen or windowed Frontend for MPD (Music-Player-Daemon). It allows to manage webradio-stations and is capable to utilize the GPIO's when running on a Raspberry-Pi.
