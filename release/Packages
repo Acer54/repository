@@ -418,6 +418,28 @@ Homepage: https://my-darling-is-a-linux-user.org
 Description: Remote-Control for Enigma2-Linux-Sat-Receivers
  playtoenigma-py is a Python script, which can take a URL of any Video of a wide range of common video-plattforms and transfer it in a streaming-link for your Linux-Sat-Receiver (Enigma2). As soon as you enter a valid URL or just "drop" a link on it, this link will be transfered to your media-player of your receiver and immediatelly start playing at your TV.
 
+Package: shutdown-daemon-py
+Architecture: armhf
+Version: 0.0.1
+Priority: optional
+Source: https://github.com/Acer54/RasPi_herunterfahren_mittels_Taster
+Maintainer: Matthias Laumer <matthias.laumer@web.de>
+Depends: python-rpi.gpio, python2.7
+Conflicts: webradio-py
+Filename: ./shutdown-daemon-py/shutdown-daemon-py_0.0.1_armhf.deb
+Size: 4660
+MD5sum: 671578c4484d61d3c7a120571d0ffb8d
+SHA1: a7ee44df44e814cf59eb6649bfeb0ee17efc6f54
+SHA256: bf912502211e67bc1cd6bfdf7ad7d5d66a2b3857cc2bdd650e99a3ac09342cc7
+SHA512: 2f5a04bf96819ae10e986c1bd805de509ee3ed0b10c6b49f85d8e5ba985f25804f8fc806dc6779a1a1c6e91c14c947a4b9e37c6ba416b7329c6090f94d5d4deb
+Homepage: https://my-darling-is-a-linux-user.org
+Description: Shutdown-Daemon for Raspberry Pi
+ shutdown-daemon-py is a small python-script which is running in the background. It is monitoring GPIO3 (Pin5) for a falling flank (shortcut to Ground (e.g. Pin6). As soons as there is a short for more than 1 sec. it will shut down the raspberry pi in HALT (save for disconnetcting the power supply.
+ .
+ *    Shutdown your Pi with a simple button press.
+ *    Start your Pi from "halt-condition" with the same button
+ *    Interference free approach, no exidently executed shutdown commands
+
 Package: ttf2woff
 Architecture: amd64
 Version: 0.14
