@@ -633,7 +633,7 @@ Description: Webradio Frontend for MPD
 
 Package: webradio-py
 Architecture: armhf
-Version: 0.3.9
+Version: 0.4.0
 Priority: optional
 Source: https://github.com/Acer54/Webradio_v3
 Maintainer: Matthias Laumer <matthias.laumer@web.de>
@@ -642,11 +642,11 @@ Depends: python-six (>=1.6.1), python-qt4, python-mpd, python-mpdclient, python-
 Recommends: python-rpi.gpio
 Conflicts: youtube-dl
 Filename: ./webradio-py/webradio-py_0.4.0_armhf.deb
-Size: 27089866
-MD5sum: 4805679f3e2e7ef447dc7643fa705abe
-SHA1: 0f5ebab9e1c6f7f32acbe34f509ae2ade7850c09
-SHA256: a5fdf6955d04dca0da1a3b788d4c6b07f59f139a7d401c851aee37334fa65ac6
-SHA512: c2c5f27dbe7311a938ef996c060601e0da80ede315a73c603545a030d8461abefab582870e51a883e4bdf68ef056550bd1dbe1568d685a8e5d89019412401b56
+Size: 27089936
+MD5sum: fd82811bf09216fdbe4cb4a475d5e851
+SHA1: 3a65bdf4818c1c3398d34e4f8a139559fab61ee6
+SHA256: e8d7a69747453a562c0f1ef970351a92741e06e9171a47fb4c3c6043eec2f971
+SHA512: 6f8bfd09a2be83cdf1702e6cca681c9f100ccfe05b3d9e4b896e7b2c232eadd4116c744a3fa37c6ff3accbbcbdf718789d90e3143f7b3b44fcd6efbbb9332dbe
 Homepage: https://my-darling-is-a-linux-user.org
 Description: Webradio Frontend for MPD
  Webradio.py is a Python script which is designed to be a full-screen or windowed Frontend for MPD (Music-Player-Daemon). It allows to manage webradio-stations and is capable to utilize the GPIO's when running on a Raspberry-Pi.
