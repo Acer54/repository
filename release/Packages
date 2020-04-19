@@ -478,3 +478,20 @@ Description: Tool for converting *.ttf-Files to *.woff-Files
  .
  Also, this package utilizes the "gnome-font-viewer" (if installed) to act as a previewer and thumbnailer for *.woff files which are not supported out of the box.
 
+Package: youtube-dl-autoupdate
+Architecture: all
+Version: 0.0.1
+Priority: optional
+Source: https://github.com/Acer54
+Maintainer: Matthias Laumer <matthias.laumer@web.de>
+Depends: bash
+Filename: ./youtube-dl-autoupdate/youtube-dl-autoupdate.deb
+Size: 3090
+MD5sum: 5b94bfa1ea8b03a0805bc076ba7d0eb2
+SHA1: eec17c4487ac6f80f3aa6bb023797a7112d32af8
+SHA256: eb4a122d6f60c0bb0ebf1ade2b43f45cc74faa9d98241b3b8eac92c6b3b9db38
+SHA512: 6d55a2ca2a74e31ce400d146e631bd7b30a2d97ed011456cfc4e03594aec02e197e744f849e282229eeca630a479155fb0ec0de34178f7bdf5764125103b5a0d
+Homepage: https://my-darling-is-a-linux-user.org
+Description: Youtube-dl including autoupdater
+ installs latest version of youtube-dl and a daily cronjob for keeping it up to date
+
