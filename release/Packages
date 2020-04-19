@@ -34,6 +34,23 @@ Homepage: https://my-darling-is-a-linux-user.org
 Description: Simple Screenshot tool based on qt
  Take screenshots of a specific area or from the whole screen. Comment, draw or print the result
 
+Package: bash-aliases
+Architecture: all
+Version: 0.0.1
+Priority: optional
+Source: https://github.com/Acer54
+Maintainer: Matthias Laumer <matthias.laumer@web.de>
+Depends: bash
+Filename: ./bash-aliases/bash-aliases_0.0.1_all.deb
+Size: 3744
+MD5sum: 339c4047d4e17bef62b7bf3eac84fb3d
+SHA1: 6cf40dceec6acb6f1c3839ffc3cd545bd37ab135
+SHA256: 9a43396dc6243e4c9152f2131eaa960580c70df80f124826b25bc9c2b357a603
+SHA512: c4660689cab1b6515520f0df17c1152d5d37ef045d6669800285e535a1b6ac0ad00092426e59d1b7edfba96744d6642c5c50be456f2277b031204deb0a96c1cd
+Homepage: https://my-darling-is-a-linux-user.org
+Description: Bash Aliases
+ custom bash-aliases (~/.bash_aliases.
+
 Package: easystroke-patched
 Architecture: armhf
 Version: 0.6.0
