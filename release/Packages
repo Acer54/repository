@@ -36,20 +36,20 @@ Description: Simple Screenshot tool based on qt
 
 Package: bash-aliases
 Architecture: all
-Version: 0.0.1
+Version: 0.0.2
 Priority: optional
 Source: https://github.com/Acer54
 Maintainer: Matthias Laumer <matthias.laumer@web.de>
-Depends: bash
+Depends: bash, dcfldd
 Filename: ./bash-aliases/bash-aliases.deb
-Size: 3780
-MD5sum: 3be1586163149dc56d9c6967177b24f7
-SHA1: 38b4d4c1eb2e3e163122a3cd1ee284eb2840e36f
-SHA256: 7da5f985ff6b2c96e30f99c9bb16020c2f2b73111b58764203434b3b9ffb226e
-SHA512: 4d874407b9ac2c78923091709ba4ddf70cda2a7be17a4962f99c43a06a695e210c1690adc982d8573701f23552c05b631e9a571b838f53ea0c9017ffd6280deb
+Size: 3696
+MD5sum: c7aeca1583c1ba3147dcb423495062ea
+SHA1: b8093f2232a68daed9ab2c007947b64bdea1dc41
+SHA256: cb55f0ca9f7ab573de614de349465fe1413db0741cd31c38537cfcc6006472de
+SHA512: e11a74edd657a75a61b3cc14b5e60a407bad79d7bd7b918acc3fe5fff52d516b61a6b1d1fd6f8c541b397b7c05aa423c4ca33a5ec15228fbd709eeee581007fe
 Homepage: https://my-darling-is-a-linux-user.org
 Description: Bash Aliases
- custom bash-aliases (~/.bash_aliases.
+ custom bash-aliases (~/.bash_aliases)
 
 Package: easystroke-patched
 Architecture: armhf
