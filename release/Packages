@@ -485,12 +485,12 @@ Priority: optional
 Source: https://github.com/Acer54
 Maintainer: Matthias Laumer <matthias.laumer@web.de>
 Depends: bash
-Filename: ./youtube-dl-autoupdate/youtube-dl-autoupdate.deb
-Size: 3092
-MD5sum: 72aca2de76481f3db0b5670328d37de0
-SHA1: 10976617e3d136522f8550eccf1fac9e4493af22
-SHA256: afed6feadb86737dd87a22f49d3bbef032ea1a3aa9dcaee2174e70dba3162e34
-SHA512: b1dad4e18d30800b2abb3d8a4cded034da4c2513119184f2fa25819242833d754c403cdb0994a0a82084d1977918e5e2e59d043c5c04a0d41354bb01051dfc64
+Filename: ./youtube-dl-autoupdate/youtube-dl-autoupdate_0.0.2_all.deb
+Size: 3096
+MD5sum: 00f3975198bec3fefc4dab561221c663
+SHA1: fa465dbe5b97681e899bf7242303f69f6dc89ac8
+SHA256: 6e3fc343c0fccf112611a33f3f09ef9a418f825bb2ad88437c91c3a29b21309b
+SHA512: 2e865176d198fb742abb62c67ccd68d538cae5c024e00b561548a6a71b0b899161ead6915b2bffe47131d7671886f62038b6bca9997c52283af5175fa4184250
 Homepage: https://my-darling-is-a-linux-user.org
 Description: Youtube-dl including autoupdater
  installs latest version of youtube-dl and a daily cronjob for keeping it up to date
