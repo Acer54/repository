@@ -42,11 +42,11 @@ Source: https://github.com/Acer54
 Maintainer: Matthias Laumer <matthias.laumer@web.de>
 Depends: bash, dcfldd
 Filename: ./bash-aliases/bash-aliases.deb
-Size: 3696
-MD5sum: c7aeca1583c1ba3147dcb423495062ea
-SHA1: b8093f2232a68daed9ab2c007947b64bdea1dc41
-SHA256: cb55f0ca9f7ab573de614de349465fe1413db0741cd31c38537cfcc6006472de
-SHA512: e11a74edd657a75a61b3cc14b5e60a407bad79d7bd7b918acc3fe5fff52d516b61a6b1d1fd6f8c541b397b7c05aa423c4ca33a5ec15228fbd709eeee581007fe
+Size: 3686
+MD5sum: 894eaddb7dc5436d978e8f8b0377ab78
+SHA1: 7063763924527ee3475724e9e8cb26adda1a3cfc
+SHA256: 256d2f21a06f50cd1558c92d18673cf512a6846b0052bed1504e936af9f090d7
+SHA512: 54bcec1f02c594c8aa5135dc567c26d9fd6c8570f79c7a4324e3cd9695fb74976c7486ac21c423b4b177c6f84307729103394fd5b4b779e515459b0bb72c3e44
 Homepage: https://my-darling-is-a-linux-user.org
 Description: Bash Aliases
  custom bash-aliases (~/.bash_aliases)
