@@ -41,12 +41,12 @@ Priority: optional
 Source: https://github.com/Acer54
 Maintainer: Matthias Laumer <matthias.laumer@web.de>
 Depends: bash
-Filename: ./bash-aliases/bash-aliases_0.0.1_all.deb
-Size: 3788
-MD5sum: 1edad2ea1305527076a471cde0d72f2e
-SHA1: c3ca9ac9ec1d3d2762a34b6bbeb126de415b7602
-SHA256: d8c33d62dc2af9ab537d5a98796dc172c20805b58a8740868593424d4d3bf75f
-SHA512: 0671379c6a80e0512cfc4032f7b7435b28573253ef94300baddb844955c529df24b9813d3a6946c6146e7ca8ac4481120a92fd0389c2fac555bd6af7184c2a26
+Filename: ./bash-aliases/bash-aliases.deb
+Size: 3780
+MD5sum: 3be1586163149dc56d9c6967177b24f7
+SHA1: 38b4d4c1eb2e3e163122a3cd1ee284eb2840e36f
+SHA256: 7da5f985ff6b2c96e30f99c9bb16020c2f2b73111b58764203434b3b9ffb226e
+SHA512: 4d874407b9ac2c78923091709ba4ddf70cda2a7be17a4962f99c43a06a695e210c1690adc982d8573701f23552c05b631e9a571b838f53ea0c9017ffd6280deb
 Homepage: https://my-darling-is-a-linux-user.org
 Description: Bash Aliases
  custom bash-aliases (~/.bash_aliases.
