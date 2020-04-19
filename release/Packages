@@ -495,3 +495,20 @@ Homepage: https://my-darling-is-a-linux-user.org
 Description: Youtube-dl including autoupdater
  installs latest version of youtube-dl and a daily cronjob for keeping it up to date
 
+Package: youtube-dl-autoupdate
+Architecture: all
+Version: 0.0.3
+Priority: optional
+Source: https://github.com/Acer54
+Maintainer: Matthias Laumer <matthias.laumer@web.de>
+Depends: bash
+Filename: ./youtube-dl-autoupdate/youtube-dl-autoupdate_0.0.3_all.deb
+Size: 3094
+MD5sum: 253703f2143257ec3e388517b13a044f
+SHA1: 83eb6b94e98ae086641b13d5ca5b503f1ed5e7d3
+SHA256: aed1f05b544c72a2a1e8b2e46709d102ea9908914cb7930c454d4d13d51676c6
+SHA512: 98cdd9338618ab1f1b6269eae8c4acb404a5080ff608ed30d45a74eb2f4339da818726694d6ce96d033a83bc8ef3e2d543625c3bc24b366a1cfbfbe3f8ad799b
+Homepage: https://my-darling-is-a-linux-user.org
+Description: Youtube-dl including autoupdater
+ installs latest version of youtube-dl and a daily cronjob for keeping it up to date
+
