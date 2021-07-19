@@ -7,11 +7,11 @@ Maintainer: Matthias Laumer <matthias.laumer@web.de>
 Installed-Size: 904
 Depends: python-qt4
 Filename: ./advanced-snipping-tool/advanced-snipping-tool_0.1.2_all.deb
-Size: 236462
-MD5sum: de562465d48126b42900b0a91bae69e0
-SHA1: aa3c173303413abee47830fe034ded4f824324e5
-SHA256: 3c4a2756dc001ca1b058b0a178131de55dc0f3125d122511b4d2fac87c214d6c
-SHA512: 3687cd9c59a1f19b75235d1bc1092c5d92e17934543877cce253a8298861a651c7ba175864d8819764346a2b68d360724202689f696141fa19f5c2ab5b3592c0
+Size: 237762
+MD5sum: 2cc0d7b1aab50ba8eae397b597ee6842
+SHA1: 2e804b1ff99bf063ac2c9c7cf0f7a322b5b1033c
+SHA256: b3e4da4c25f67f1dbae2f0606eab109942c543958b87d1ffb69e3df172f89f32
+SHA512: 8f9a9853d491548d9a1dd7660a2f5bfbde388098995ad336f9f7fd55ef85dbe1832e592c55f2a85c19c93e76ef69a35fd14ba4fa735ad7917fd857caa37bf059
 Homepage: http://my-darling.is-a-linux-user.org
 Description: Simple Screenshot tool based on qt
  Take screenshots of a specific area or from the whole screen. Comment, draw or print the result
@@ -25,11 +25,11 @@ Source: https://github.com/Acer54/
 Maintainer: Matthias Laumer <matthias.laumer@web.de>
 Depends: python, python-qt4
 Filename: ./advanced-snipping-tool/advanced-snipping-tool_0.1.3_all.deb
-Size: 293706
-MD5sum: 3c52e7cd70842ced093d54241d99e543
-SHA1: 2f11416cb55d8ef1136cddf1eb78917ee2adcb7d
-SHA256: 74ccebb90a97a013b274c4e6290e2e97ab8848448553257ae9d0d80a427a8ee6
-SHA512: a85a23853dab5c91b8974e96ae260f3592985d1a6078481c0e73a6dde8408f7611287cdcbef4cbe398ab0624749508b3bddb469b733ee9e06bab82ccba9ebd42
+Size: 295006
+MD5sum: 944217e572e3bee9fa047cc3f65d734f
+SHA1: 9105608c388cafd306b86bc701611c80f9d57646
+SHA256: 44ac7cd3d48028311bb60b14ac6c234dcbafa08db36daf94be7d0a853326ffa1
+SHA512: 6c799242f4e6c7128c285e295c8a73e45f464ff761aec18852a9cf375c9cad0cb69884a952f4ef9649eddc372815279c57d6d33d73dfdeb3cd791ba887191cac
 Homepage: https://my-darling-is-a-linux-user.org
 Description: Simple Screenshot tool based on qt
  Take screenshots of a specific area or from the whole screen. Comment, draw or print the result
@@ -42,11 +42,11 @@ Source: https://github.com/Acer54
 Maintainer: Matthias Laumer <matthias.laumer@web.de>
 Depends: bash, dcfldd
 Filename: ./bash-aliases/bash-aliases.deb
-Size: 4892
-MD5sum: 07de05cb1b2f4795d086041840196c63
-SHA1: e4ea20fbb945c8fe37a668bc5477bd24a1fc817a
-SHA256: f28670bc8f54588c1836d2ffbc1b9c9ef1132aa5a49c2b1b0f07373c86d6da4a
-SHA512: e00a940a43ce86635fba980aab995ccce599db4081251441b4ac71b1c92e99b61c92098c148081d95f673759f7b4920b7dc88b580c47ceaf390d4891c8b4514b
+Size: 6190
+MD5sum: f5ce0763219109b5e19337dc3e59e2d9
+SHA1: 8b9ed784f0028ac95cd7b290dd8c04a30de9a884
+SHA256: 59cf2fdad28c24d3626483fe8669de84a82c868e93b1415af9aeae975ce19b58
+SHA512: e7965822f296bf63e86bd74b02ac5b92915d27b2fa0d46fac97a7c49270b58cc088c4627f4137a2fcf4a343eb5033e1fde9426111019fb682730858863044f2d
 Homepage: https://my-darling-is-a-linux-user.org
 Description: Bash Aliases
  custom bash-aliases (~/.bash_aliases)
@@ -59,11 +59,11 @@ Source: https://github.com/thjaeger/easystroke/wiki/BuildInstructions#releases
 Maintainer: Matthias Laumer <matthias.laumer@web.de>
 Depends: g++, libboost-serialization-dev, libgtkmm-3.0-dev, libxtst-dev, libdbus-glib-1-dev, intltool, xserver-xorg-dev
 Filename: ./easystroke-patched/easystroke-patched_0.6.0_armhf.deb
-Size: 465432
-MD5sum: dba08f16779d4a35b345ff2876386c26
-SHA1: 3cab713487dc28ac8c1196bc3af1318916c9bfda
-SHA256: 8d9a55ea11286199848d4eeb9b384c2786b20963bbda6266a7410ea5194eda28
-SHA512: 854e2af97f6ef49eafb3091275f20b1b1920a4ac4ee237d10ac0ce18bd5f70122325f3ec85c0f7e72ae5e7aec6c4f4509e88b6517f08472dc00aedd58fd928c1
+Size: 466732
+MD5sum: c5357480e586168ddf644dfeb4e76bd6
+SHA1: f3aceb316077371d62bf03a543a28c73c61e5f4a
+SHA256: c55b8e25b37653ddb6c0ad451c5aab171ba2d7cc5dd338d3b4315203c6f6d100
+SHA512: effdc5c4c11bc6f8e2cd6933ac878e10c5b60b94000e6167b995ba9a60d2cf4fd12fdbe75a29915f1f7bb35e877694e49ccc946fcbeaf2b09cca70b16b2c44ad
 Homepage: https://github.com/thjaeger/easystroke
 Description: easystroke for RaspberryPi
  Latest release of easy-stroke (0.6.0) with multiple patches. A full list of patches can be found here: https://github.com/thjaeger/easystroke pull/10#issuecomment-444132355
@@ -77,11 +77,11 @@ Maintainer: root@bionic
 Installed-Size: 22032
 Provides: filemanager-actions
 Filename: ./filemanager-actions/filemanager-actions_3.4-1_amd64.deb
-Size: 3326188
-MD5sum: d3987c4a1c8ac5227ad42daea7013589
-SHA1: 1f67ee604df6d5606f01c51100bba8690f80d15a
-SHA256: 4d80e94792b86ce4d741219807bb4fd5cebed96d97fc2ebcadfc089b04545e3b
-SHA512: 8222dc5219c5860b0a06dccb5d4e4720485d034cd20bf7a23214306001273b5516e175e7aa3da7175bfd02216bd39027a4eddc54139589ecd960183192cba818
+Size: 3327488
+MD5sum: 49a6f4892aaaa5676202c8392d502e9e
+SHA1: 4c094ec5479b437bb5a1a234103da0aa09bdb3ce
+SHA256: db381a4df991c479678c9b2d23d409020c9299320594f89f975a7dcdfdae8dfb
+SHA512: a5a4c7e638978ec1db9a062d651b94116b027943accfda711bd38d40cdb99235098e2d2cd74c2e195208bef0958039c87ecd7ff281b92f2b61faf50522841af3
 Description: filemanager-actions
 
 Package: libmp3splt0-flac
@@ -97,11 +97,11 @@ Depends: libc6 (>= 2.2.5), libflac8 (>= 1.2.1), libmp3splt0 (= 0.9.2.wheezy)
 Conflicts: libmp3splt
 Replaces: libmp3splt
 Filename: ./mp3splt/libmp3splt0-flac_0.9.2.wheezy_amd64.deb
-Size: 29062
-MD5sum: 4a88e802a5e6177155c64aa6311562a4
-SHA1: aafeda7aa110e38981b39f275a64e96bf2bd190a
-SHA256: 20ccfd19f32a6e1c9421823b004761c1e605af9630abacb660c1b2004fcf7e2b
-SHA512: 098aec7b6fc803a63d54eb546c1b7c436d9516d68b4a3175494746c9eaf83fb81a528382b18bc30717e0064994157d5b1e3be231042e27098f76cf640b9408a0
+Size: 30360
+MD5sum: e058accfeaa1b706f124adaf826fc933
+SHA1: 8465373379ad7ea738dccc86b7def6e78857d8a6
+SHA256: 0da9d88380e483749a508748d55cfb97c846fd73760987d09fc3022661ea2e26
+SHA512: 4c7dd11800907f27358352cebe2ecd4999bd4029b0b403abf743c16591adda930c9a4c8e515e61b17c98a55a8048e1714b365acfa5c1799ba580e8149ba55183
 Homepage: http://mp3splt.sourceforge.net/
 Description: Flac plugin for mp3splt
  Mp3Splt-project is a utility to split mp3 and ogg files selecting a
@@ -131,11 +131,11 @@ Depends: libc6 (>= 2.2.5), libid3tag0 (>= 0.15.1b), libmad0 (>= 0.15.1b-3), libm
 Conflicts: libmp3splt
 Replaces: libmp3splt
 Filename: ./mp3splt/libmp3splt0-mp3_0.9.2.wheezy_amd64.deb
-Size: 36104
-MD5sum: 20b23696fa5e563c8e03674d611edf9c
-SHA1: f10941ed874fc75c1b81579f091ccd36bc245354
-SHA256: c3b95e5f386a3183f0886f8cbca2b66a4bda48db439729e68add3d511337f833
-SHA512: 52a88b5ec2d09617b2c53e087fd9ecd7d29fe0075f6a3eb5b80026d946477547b6d27890010716182dd46eccd7e6cc4055b5b343dd9dbe929b72690689e33bd4
+Size: 37402
+MD5sum: 4b7025d0672ce370ad0d90568bb8145f
+SHA1: f6f008129b8bcd837809bb5a83ce445509e2f50d
+SHA256: fdeb031c11b3ea3406c39c9062e666b37fb403ad709f96fa3d26cec07dc975c4
+SHA512: 6b67bb153c53dd76bb5a18cd57cae372a2b98fdd491a6ef78fcfc9952a6380fe3ae2a39f9e3b209548c2e4e473403223a9a8ddf92f1c2150b4384401c26108c7
 Homepage: http://mp3splt.sourceforge.net/
 Description: MP3 plugin for mp3splt
  Mp3Splt-project is a utility to split mp3 and ogg files selecting a
@@ -165,11 +165,11 @@ Depends: libc6 (>= 2.2.5), libmp3splt0 (= 0.9.2.wheezy), libogg0 (>= 1.0rc3), li
 Conflicts: libmp3splt
 Replaces: libmp3splt
 Filename: ./mp3splt/libmp3splt0-ogg_0.9.2.wheezy_amd64.deb
-Size: 22802
-MD5sum: 510625ae453aa30b460791ce5b72cfb0
-SHA1: ef6b6003920e4d95fa1604e6bd4d6b726606a667
-SHA256: eef790e9de2b1cb61270f93073d80215a164b0c976cffe4ffc7e578c7eda0835
-SHA512: 8558603331ac869fd4a0400312ac2386626add211970e56c48058e435d237f80821c610fbfe6edf86559f33105fad445e0b4c6d52123d14894c6239142d3128d
+Size: 24100
+MD5sum: 8183df5b94bbd5b58ebccc84b85caf67
+SHA1: 54e30b02b7a23e93a9df8a891395649116cf3cda
+SHA256: d87a9afe7e043b9a3adea709bab35e1e274214f7f0d5cff3a301a43f930fffcf
+SHA512: adada5476e42858510cc20de230699bac6519ce1c91a98c61c823df6eff46379889d82b6b8b1ca63b37272dfc5465e8744316a8862f50119b0b03f457adf89a0
 Homepage: http://mp3splt.sourceforge.net/
 Description: Ogg Vorbis plugin for mp3splt
  Mp3Splt-project is a utility to split mp3 and ogg files selecting a
@@ -200,11 +200,11 @@ Suggests: mp3splt, mp3splt-gtk
 Conflicts: libmp3splt
 Replaces: libmp3splt
 Filename: ./mp3splt/libmp3splt0_0.9.2.wheezy_amd64.deb
-Size: 81764
-MD5sum: f9c9f02bdb0e4a4cf1ad4b68924dedc4
-SHA1: 35a34d343ecb55f91de1005c7e84bc288a5ca099
-SHA256: 96adb57d58c9563074660c086f730620ab69925d6ffa2fb90c5f64b43e2d581a
-SHA512: 00503c002a519ddc4af5df66efedb4786fb3b764a39771a12f3b7d052efc309eeebc7adae86bcf69a7f97d1deac64f240b585af9de0239a8fa61f784e7902424
+Size: 83064
+MD5sum: 0392b6d38dd0f80ee70b3abc56d86853
+SHA1: 089c5131443c5f53ce187e2a4e786c58d26669f7
+SHA256: 068b48559e509d0d139a4121550afb2803d56f3598e21021b7174ab9c620c0a7
+SHA512: c02a81ccbef8595bb92a1b1d68591fe8eebb432a37585673d4f0aa809f793518f27af5ab4ec262d4f967623bcb36b16440c9b480a0326ee49e1294e3d98f016a
 Homepage: http://mp3splt.sourceforge.net/
 Description: library for splitting MP3 and Ogg Vorbis files
  Mp3Splt-project is a utility to split mp3 and ogg files selecting a
@@ -233,11 +233,11 @@ Depends: libatk1.0-0 (>= 1.12.4), libaudclient2 (>= 2.3), libc6 (>= 2.3), libcai
 Recommends: gstreamer1.0-plugins-good, libmp3splt0-ogg
 Suggests: audacious
 Filename: ./mp3splt/mp3splt-gtk_0.9.2.wheezy_amd64.deb
-Size: 527764
-MD5sum: 5b1ba8d8dd4b486126e362ae82022f75
-SHA1: d881150354f621d8d4efe923f9d56a7035150b2c
-SHA256: d41fb1b60449c5de853ac6e67ecac428cd8d23b077fb4a37844f21e302c7de45
-SHA512: 5212a4113681c381d11e0b282308d206760eef4ae41124e9f6ec704a2198e0911fc829ae23cbb9f01d77db0f1df7d67890893b6025be919fbc7051b15df13de7
+Size: 529064
+MD5sum: 2c1d6ea338790d4eefae8cb6e1c3e01b
+SHA1: 594f0ec12f3754a293aca46f6feb3eb36be6169a
+SHA256: b677a2669264bbe1f47832a44c97ca7131b0499aac69318515acac10f0828b30
+SHA512: 556cffbf80ccd422ce9c9ff911622ea358418b7bb7023f5f11b147a307352111e275fedb12a988de3b738fb8ccd734d9d52ab516307f7d41d41c15e89a870bf0
 Homepage: http://mp3splt.sourceforge.net/
 Description: Gnome application for lossless linear editing of audio files
  This application allows to cut an audio file into several tracks.
@@ -257,11 +257,11 @@ Installed-Size: 119
 Depends: libc6 (>= 2.7), libmp3splt0 (>= 0.9.2), libmp3splt0-mp3 | libmp3splt-plugin
 Recommends: libmp3splt0-ogg
 Filename: ./mp3splt/mp3splt_2.6.2.wheezy_amd64.deb
-Size: 63784
-MD5sum: 1d5c07ff0994ba51a09a002524dad083
-SHA1: 1a4c4cb2490f71e6e47f2f2932ede73b09c157dd
-SHA256: c092d7152537e1250ab016e28b68c7e123fe0f5b97b9a9b958f553cc2919d7f8
-SHA512: e5c1293e3530c749b3f018271b8e1cf5a6b79a134a31111b2ea56e64056d4987fa1861ac4c3548b5cffddcf5c601fabe62b81b3d2b11006603510f9f46067f32
+Size: 65082
+MD5sum: 376e3dbd1ef5fc0ab86ff745373bc3a9
+SHA1: e6725547e9d7c7609124f0b977fd3b30edc55459
+SHA256: ed05c7f9be7ac91f6393a47046f84ad6e52a5ad703386606780e70f947abc1cf
+SHA512: 4c5bb6cd3c6dbe8de0022996cfec78e61479145200f029bbf9f99d0ac8754617a8b4a44c1b58562a9eb3d574f0915f70ccf673e5614bf1c48e635645336768bd
 Homepage: http://mp3splt.sourceforge.net/
 Description: Command line program that splits MP3 and Ogg Vorbis files without reencoding
  Used to split MP3 (VBR supported) and Ogg Vorbis
@@ -278,11 +278,11 @@ Maintainer: Laumer Matthias <matthias.laumer@web.de>
 Installed-Size: 92
 Depends: faad, faac, flac, musepack-tools, id3, vorbis-tools, lame, mplayer (>=4.16), zenity, bash
 Filename: ./nautilus-actions/nautilus-action-audio-converter_0.3.1_all.deb
-Size: 11204
-MD5sum: 20f1be4ddef9be7775ca154b571b98a3
-SHA1: 839e15feef266b58676643cbe84d4c1e6f697cb7
-SHA256: 6f2006facf15976aecf326415ed30b959b1840238c7c79d54058b8f2caf470e7
-SHA512: 22d50da7a895f37114c4e17a33e3b1b5728e019c9a3d6f7340df003780485e361cb78327b9abbf83d36cde93f8366c810b89bc0137bd66dba0e80b8f980b6f89
+Size: 12502
+MD5sum: d26d1ef334d8b8095f5ce5aa9f223ef1
+SHA1: 9f794761e0ebf9ee1c54d3417a5b6fc196f13806
+SHA256: ed06baeb278d5d756c8b34d7331e1346e40240c7e674928f3bc91829c7dcf473
+SHA512: d423493691b9b26235544f67a075eb9d665f2b0ef8fb7bed3497deb1f4a21b1c4719ae2600828a8ed5a36c613d1ad1467d3159f31f7bf6d5dd3c0da1d170bd69
 Homepage: http://yeknan.free.fr
 Description: An audio-converter between nearly all audio-formats for single audio files
  Extends the file-manager actions for audio-files with a "convert-to"contextmenu.
@@ -297,11 +297,11 @@ Maintainer: Laumer Matthias <matthias.laumer@web.de>
 Installed-Size: 76
 Depends: zenity, poppler-utils, ghostscript
 Filename: ./nautilus-actions/nautilus-action-compress-pdf_0.1.4_all.deb
-Size: 8596
-MD5sum: a5c793cd489652ceca5504a2b570c3b1
-SHA1: f815c431935dee8578b07975fee95f53c2114aba
-SHA256: 33f4e1af922062507d366fbcc4aa425287147193d8f9dbc96bda809f1c0c4f12
-SHA512: f0bbcc55e0dca691ff043752e6ae108960dc919c078d9b2c632183e9afd2013a6ff4f1849e0692f1a7f1d63156e0aafe8325770a41fccb033cbbec8a8e697d3c
+Size: 9894
+MD5sum: 37721741c6ef05f093ef4fe09d6055ad
+SHA1: a0008ab037bdc24bcc53644cce03d7f8783dc984
+SHA256: ae9b9a5b52e506582d242c51419e1c2c5232868348b0385af48a10f6e65ca28f
+SHA512: b27ed720416dbef5116cac298f6c54be7fb14fbdd5861d51b5d5f9edea64ec8d701aeb7cbbd35e75abce14ccec7e2c139b9496d948401a91f38d385840c76af7
 Homepage: https://launchpad.net/compress-pdf
 Description: Nautilus Action for reducing the size of PDF-Files
  Sometimes, especially if a PDF file contains some pictures, it is necessary to compress it in any way (e.g. you want to send the file via Email).
@@ -320,11 +320,11 @@ Maintainer: Laumer Matthias <matthias.laumer@web.de>
 Installed-Size: 52
 Depends: libreoffice-common, cups-client
 Filename: ./nautilus-actions/nautilus-action-print-pdf_0.0.1_all.deb
-Size: 4654
-MD5sum: 5ecc72d2f16964e472ce6128e68e1c5f
-SHA1: 222d15036c93b3e57fb357f3b676061ee1d0dd3b
-SHA256: cae3ad516fbdcc519a6b6ef3c9f34ccb364e1e0b89cccad906a58392fe67c950
-SHA512: e78d6e400955c3939865dc5e15dabe2b95a365eada8a49ee59deaec5156541bb8515c2335aa5c40c427c3b4de82d9a632fd8a3fdb5a947b13fc33808be664d0f
+Size: 5952
+MD5sum: f1e2c1d0e4b8d0a985f5e612c4b90121
+SHA1: c9d2e1269980d5f56aa738c1aa716ca5700edad7
+SHA256: a33d8ee51cbcb676b1ce2805d8259aa5f180b8f3bb422b83cc684b524ec99d6b
+SHA512: 3ac1900428b1f1e0ee3ae06731e7c5f93b0262ef837aba726a7cf6e3969ce192f4762c3801e9704029d6014e9ed290da95ef6f3a6e9115813f1278a8766dfce7
 Homepage: http://my-darling.is-a-linux-user.org
 Description: Adds a "Print to PDF" entry in the contextmenue of most filetypes in the filebrowser
  Print a File with a right-click directly in a PDF.
@@ -340,11 +340,11 @@ Maintainer: Laumer Matthias <matthias.laumer@web.de>
 Installed-Size: 52
 Depends: libreoffice-common, cups-client
 Filename: ./nautilus-actions/nautilus-action-print_0.0.1_all.deb
-Size: 4622
-MD5sum: d2b8b906a0869cd3d184677b0e6cdf07
-SHA1: 29ace8144ce17513eb65518ab6535cdc73083e84
-SHA256: 95afc8bd33f71f39a1496a1b67f28f0fef63e079938d7ad3a2534b5c2cdbc679
-SHA512: bc0c3978d4c4da1aea4479d25563b7f5048285070eaa6c7b42ccdc13343a5af44fa6ac2a46d9813149a48976065b6308ecc500e5d8bce561081063dfb1cb95e9
+Size: 5920
+MD5sum: 343a305df4187050cb539887f491cdd7
+SHA1: a8f98a3afecb67490f7746764f0548591cda4756
+SHA256: 5e937e8c3ce2908a8d13c82b3dd2fa9b28b1559a48a3827d526703b547199994
+SHA512: b4e6edd52197a858a5321596550a945a1b1f1ac895c2cf0651894dd744fade464f4556291b1b86e80a42c0b8b34bc670736c57b3368f5752ee5c7c80922f1d4e
 Homepage: http://my-darling.is-a-linux-user.org
 Description: Adds a "Print" entry in the contextmenue of most filetypes in the filebrowser
  Print a File with a right-click.
@@ -360,11 +360,11 @@ Maintainer: Matthias Laumer <matthias.laumer@web.de>
 Pre-Depends: libgtk2-perl
 Depends: python-qt4, python-wand, imagemagick
 Filename: ./onlinesearch/onlinesearch.deb
-Size: 4066270
-MD5sum: c24c0b87256afe32d9ec2b2d99dc9142
-SHA1: 41361daae0af436fcdce455df81a161e89c6d40f
-SHA256: 5223090681e5bf659cae0870728d615df0193657d34ec52736711f329b2eaae8
-SHA512: 7e84c8d96e16c6dcfec328a15a6540b5db9e6ccfc1daf77338bbd0709e5d2171d4008c9581e32550283649a6ec0689408f613a9fa5a1a1f03eeb9047769aa82c
+Size: 4067570
+MD5sum: 8e4e61f7dd066458088da740b579f662
+SHA1: e5c8f2dc3e592ad966917da09876203a8dea4373
+SHA256: 1b3bd99ea8ac8798b1602be7b1872961932fc9222f210934f51f18841a563bed
+SHA512: 6131edae5857368a6a84120123aa5654fe8bac66eb00ffdadd4f12b2b821830078c8c689adca942c4becc52a0a63d732a9df84aeadf24f06fd853cd7cee2d846
 Homepage: https://my-darling-is-a-linux-user.org
 Description: Onlinesearch is a little helper for searching with search-engines
  With onlinesearch you can enter a searchphrase like "cool video @youtube". If youtube is configured as one of our (free configurable) 
@@ -384,11 +384,11 @@ Depends: libc6 (>= 2.14), zlib1g (>= 1:1.1.4)
 Conflicts: libpng12-dev (<= 1.2.8rel-7), mzscheme (<= 1:209-5), pngcrush (<= 1.5.10-2), pngmeta (<= 1.11-3), povray-3.5 (<= 3.5.0c-10), qemacs (<= 0.3.1-5)
 Replaces: libpng12-dev (<= 1.2.8rel-7)
 Filename: ./pes-jef-viewer/libpng12-0_1.2.54-1ubuntu1_amd64.deb
-Size: 118622
-MD5sum: 5814dd3025b7f8fec7281879f590be35
-SHA1: 49517f327c8e1c3a831248cbef1b81fe8beca71b
-SHA256: b15a9e939b4c3a3be3565b3811efcb17363901ce8c565affba0459f22a36459f
-SHA512: d925d312c1146d4801427f84fd20bf7fcdc57a6a195759c26bc4f84f287b2f9036d7fff0a6bf2633f63571c45294a141b01b079892e5b5181bedc3483611663c
+Size: 119922
+MD5sum: a87c29b33a8d7a9deea2068e709cd8a4
+SHA1: 98db17541c52bd987c8e18cedfb33d72ded2f6a5
+SHA256: 04fa8ace515bdb6afcfa94f90291f2c8d7926bc2963f0564acedb51ceef1597c
+SHA512: c856ac159f02cfdc294c0ce058bfc73e37d900fc2bba9491965960400cb44331571b3a7592424375376cc2812814c1f554ace69316f1046ff8ac4c5b262b4a58
 Homepage: http://libpng.org/pub/png/libpng.html
 Description: PNG library - runtime
  libpng is a library implementing an interface for reading and writing
@@ -407,11 +407,11 @@ Maintainer: Laumer Matthias <matthias.laumer@web.de>
 Installed-Size: 204
 Depends: gconf2
 Filename: ./pes-jef-viewer/pes-jef-viewer_0.0.1_amd64.deb
-Size: 31178
-MD5sum: 0a78883e723ebd1f861557b3069b4451
-SHA1: 9707794eac8a0ac336456997f5e6f33deb464ff1
-SHA256: 37350abe2d51bd9e098423ef877add9579e1cd48934b6a1240f7d89e1b3e5c3b
-SHA512: 0b3304ada0974c65c20b67f2f751703723872871972f81ce81f0d2a9f80a63b8a0a825ff946357ddcc4e6c8f21fa53e8c94d4a6f5f05a8e5d205e218939d79a9
+Size: 32476
+MD5sum: eae5b90ea25ee015d641179e2e82482b
+SHA1: eca13126d5b4dfdf9440b284a8a1977dc99830ee
+SHA256: 761b3bcfa69147db739b56cbbbc4d9560b09b433351ea2d7be95103a03de6b40
+SHA512: 6ff311599730db079f0255d9b4677223a9353be03232ae063a61b200951c58de55649e667a6932dcdef63fb90c0c717f6ce570af7f5307b1f6aa84547b80bc72
 Homepage: http://my-darling.is-a-linux-user.org
 Description: Support for Brother-PES and Jef-Files (Embroidery-Machine-Files)
  This packages adds support for thumbnailing and pre-viewing Embroidery-Files
@@ -426,11 +426,11 @@ Pre-Depends: libgtk2-perl
 Depends: python, python-httplib2, po-debconf, debconf
 Conflicts: youtube-dl
 Filename: ./playtoenigma/playtoenigma-py.deb
-Size: 20406
-MD5sum: 487f0d3009708eff9f2e93f170c5d153
-SHA1: 22ca952a33f78f38681b7e214041eba4bb076b15
-SHA256: 8cdfef1e13bacd3e746abd1820896b267c7b597ce565a8a3913c795d1006c76c
-SHA512: 5bce16b563f10aaa197834fc3eac5b1dee407e2c35200f804b7f5668933cfc709bdd21f98accd12d84407a9586dfdab48f7775a8cfe7ec3f1325784347de4aa9
+Size: 21706
+MD5sum: 43952003631fa6face39d799effe28c6
+SHA1: ce6275637f617bf80ee26ed067a9511912137a89
+SHA256: e37756148e6269aca397a35658224b19f123f20f89d373716bcf4ebf7d53c9a3
+SHA512: f679303adc5cd0d1e779bda342f586bfc25fc0124554c64c3bbf4c58500df9d75e179e126daf03b6bb97253c8594814e78b25b8888487e71aa1919f081a75610
 Homepage: https://my-darling-is-a-linux-user.org
 Description: Remote-Control for Enigma2-Linux-Sat-Receivers
  playtoenigma-py is a Python script, which can take a URL of any Video of a wide range of common video-plattforms and transfer it in a streaming-link for your Linux-Sat-Receiver (Enigma2). As soon as you enter a valid URL or just "drop" a link on it, this link will be transfered to your media-player of your receiver and immediatelly start playing at your TV.
@@ -444,11 +444,11 @@ Maintainer: Matthias Laumer <matthias.laumer@web.de>
 Depends: python-rpi.gpio, python2.7
 Conflicts: webradio-py
 Filename: ./shutdown-daemon-py/shutdown-daemon-py_0.0.1_armhf.deb
-Size: 5866
-MD5sum: 5611eacd1c14df456fcb6418a1ca579d
-SHA1: ad2e8492e59bd94d49a1cfad4b9cbb28f2a9a179
-SHA256: ac157d2e4965e01d5ae98c696da518ea2ea313be35e496f6fb707bb4b01ef477
-SHA512: 2d73f5d80de7ea9005771f434f80d6c6ec5db96941af40d4d9cd67ff54ae0e410c07fccefdc798de70ea056f0d4bc93c6029bab8ebaf15b97c014f563231b87f
+Size: 7164
+MD5sum: 1239524543d4071e5593db649e2fcce1
+SHA1: 1769ae40a20afdf37ae69082cdbe48ba51221a4e
+SHA256: ed5c83df6078df0c162b3fdbd1a8ae7bf377365c432b94f6f8ede8945474be9a
+SHA512: a18941f7d6f9f4d006051f48f58d1ca874d5b508ce2d4a1cf444325c8057384fa8b0bae5fcac2dba0465b5a60b916ee4aa308fdc24a03d85f9fd1bc75974975b
 Homepage: https://my-darling-is-a-linux-user.org
 Description: Shutdown-Daemon for Raspberry Pi
  shutdown-daemon-py is a small python-script which is running in the background. It is monitoring GPIO3 (Pin5) for a falling flank (shortcut to Ground (e.g. Pin6). As soons as there is a short for more than 1 sec. it will shut down the raspberry pi in HALT (save for disconnetcting the power supply.
@@ -466,11 +466,11 @@ Maintainer: Laumer Matthias <matthias.laumer@web.de>
 Installed-Size: 332
 Recommends: gnome-font-viewer, nautilus-actions
 Filename: ./ttf2woff/ttf2woff_0.14_amd64.deb
-Size: 89798
-MD5sum: 4874feb83932e43bc0feb4d2a1f6f97c
-SHA1: 5fe3279c4f5dc40aec09e31ed39a689850283911
-SHA256: 3b798d8616ba7b9ae2689da8b1d8f74992e9411c90bd4be74d56c71936fe03a0
-SHA512: ab0f679a08df27e8926b50c30a11493b845a899d8c9ce842399aec330dc5c7ceece72cf6ff91ff9f18548f22eb671296a52508946421853487489f4854b1e7d1
+Size: 91096
+MD5sum: df7d7d51fda005360353ab0f483270dd
+SHA1: 07fea8e54a12632b56886fe53aa4db9cc30aa3ce
+SHA256: 8f9fb2b0f8b3dd737789650b911839503d99b681a6f003bf61a00f5bc76d58d2
+SHA512: d87baf1b16bf2332742da74cf341e76ff3603767a90edd3a2a80debdd9fd91820abcf9151ed2c5dc16fad5aaf8a6db9556ac6308b9f2d61ddc28dfaedd8ee6b8
 Homepage: http://wizard.ae.krakow.pl/~jb/ttf2woff/
 Description: Tool for converting *.ttf-Files to *.woff-Files 
  This tool can be used from the terminal using the command "ttf2woff" additionally, this package adds 2 new "Filebrowser-Actions" (if installed) which can be used for converting files directelly with a right-click on the file.
@@ -489,11 +489,11 @@ Depends: python3 (>=3.6), python3-six, python3-pyqt5, python3-mpd, python3-lxml,
 Recommends: python3-rpi.gpio
 Conflicts: youtube-dl
 Filename: ./webradio-py3/webradio-py3_0.5.4.deb
-Size: 46385708
-MD5sum: 9283a9878da6c3caf0c41816d5d76182
-SHA1: 123ce987aaddab83e0e547c378ce243958e4d1fa
-SHA256: 1b437b48ad1fce516dc96ef6bb8bd502b1f28f953170fe6f451ca70368ba891b
-SHA512: afaadffcecc32cc2c000de96ca6a93de56601240bfa66854d01a533e8e633602080f4691af53face5541bab04d91974cabadb9c85ca642345f6052717e699d3f
+Size: 46387012
+MD5sum: 8cf767da6c8b5e2e970af561fe246e3e
+SHA1: ebd4d80c235ef449bf2ea233e644d71a61fa869e
+SHA256: afd7ac26b09dce97c7ebee6b027253a119674ed6cd120931f074a6509fbc3d80
+SHA512: 69c925c458144ae00f0ea7e4d0b71d5d0884858155d791763df0e8771ef7f141be59ba7b01179c597b86657428d9816311076b726afc268e180a61592dd827e1
 Homepage: https://my-darling-is-a-linux-user.org
 Description: Webradio Frontend for MPD
  Webradio.py3 is a Python3 script which is designed to be a full-screen or windowed Frontend for MPD (Music-Player-Daemon). It allows to manage webradio-stations and is capable to utilize the GPIO's when running on a Raspberry-Pi.
@@ -520,11 +520,11 @@ Source: https://github.com/Acer54
 Maintainer: Matthias Laumer <matthias.laumer@web.de>
 Depends: bash
 Filename: ./youtube-dl-autoupdate/youtube-dl-autoupdate_0.0.2_all.deb
-Size: 4302
-MD5sum: 16a52c760783b9cd4780bef01a8976cc
-SHA1: 11f5e6ed20083d61d4c0e7d59532903cac629616
-SHA256: be3e2c67429b1da64ed495e8f367c0373e744ed0ea5aa8831ce566017ae65ab8
-SHA512: 2feec6e34a402d774f8495a3eac90c6cf408d8c8c2fea00efd48640bd2b0731073128430a87fc1d945d72532e71e512487255e08632673d090fdf8de837386e6
+Size: 5600
+MD5sum: fdfe2d87618857827281e8221e49c4db
+SHA1: 72b818711dc173e5bea8fe33ef11030e4929926c
+SHA256: 0cf4d5d3c6cdd7e99a20d294022544f3be2b92fabbd2e63ca30e9f543ea685ea
+SHA512: 30951ed0304fddd0d328a01dba8d207a78cadeff28ec05ea320084d68b2859e9a981a4649ab9c0f3098c8c16dfb0c18479397376f48c88aa657f64a011f1fccd
 Homepage: https://my-darling-is-a-linux-user.org
 Description: Youtube-dl including autoupdater
  installs latest version of youtube-dl and a daily cronjob for keeping it up to date
@@ -537,11 +537,11 @@ Source: https://github.com/Acer54
 Maintainer: Matthias Laumer <matthias.laumer@web.de>
 Depends: bash
 Filename: ./youtube-dl-autoupdate/youtube-dl-autoupdate_0.0.3_all.deb
-Size: 4302
-MD5sum: f82b8a2b418e749001986fcb6c9a9c03
-SHA1: 875ca0202462cb00eeac7a51521cf57429a7bb69
-SHA256: 1f81e99c7025fec7a00f359508fcaa18f6b6fc27825ba2bbf8cdd707fbf157e6
-SHA512: 07fc3df208062641c92890defcd0d0996f76f963bc1dbc34aff748c9af10c538a6ce2eafcb387907bcf393bca50ea6acf6793d511e51bfe822b5e72fa8eac661
+Size: 5600
+MD5sum: 3e1de395556763c88d50ad41b566abaa
+SHA1: 38cfdb3fd9ebbefb54f6208030b52fff8a0ccf62
+SHA256: cfae9db386fc8f590b5eb3f0a8fec4017f5042600e9ec824c1f8bb455b781ee5
+SHA512: 6e7baa2bdae6dd36258fe4835a95e228703af86d98ba6e521ecb279989ad24e62691a85ccf234aa6d3a9ac0afbce0608cda990be1156a0e6d398ae1d10ee09ae
 Homepage: https://my-darling-is-a-linux-user.org
 Description: Youtube-dl including autoupdater
  installs latest version of youtube-dl and a daily cronjob for keeping it up to date
